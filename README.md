@@ -1,4 +1,4 @@
-# [Mini-Project 1: Remote Work & Mental Health In North America]([https://public.tableau.com/views/ZomatoRestaurantAnalysis_17156453843520/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://docs.google.com/presentation/d/1g-zJOzar9BySVCvnhj-x-CW-Kbu5Yoje8YY6LFFFVZs/edit?usp=sharing))
+# [Mini-Project 1: Remote Work & Mental Health In North America](https://docs.google.com/presentation/d/1g-zJOzar9BySVCvnhj-x-CW-Kbu5Yoje8YY6LFFFVZs/edit?usp=sharing)
 
 # Overview:
 
